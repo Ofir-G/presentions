@@ -20,4 +20,4 @@ Background, Cyber Kill Chain, NIST Framework, PPDR Model
 Competition, Playing to Win - the 5 startegic choices
 
 - **Apple Analysis**  
-Background, buisness model, network effects, lock-in strategy
+Background, business model, network effects, lock-in strategy
