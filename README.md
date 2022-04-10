@@ -4,7 +4,7 @@ These are presentions and analysis on various subjects I made.
 
 ### Subjects
 - **Anti-Virus**  
-software analysis (how it works, what does it do), types of maleware
+Software analysis (how it works, what does it do), types of maleware
 
 - **Airless tires - innovation analysis**  
 Disruption model, Business Canvas, PEST model, Startegic Canvas, Six Path model
