@@ -3,6 +3,7 @@
 These are presentions and analysis on various subjects I made.
 
 ### Subjects
+
 - **Anti-Virus**  
 Software analysis (how it works, what does it do), types of maleware
 
@@ -17,3 +18,6 @@ Background, Cyber Kill Chain, NIST Framework, PPDR Model
 
 - **Neighborhood gym startegy analysis**  
 Competition, Playing to Win - the 5 startegic choices
+
+- **Apple Analysis**  
+Background, buisness model, network effects, lock-in strategy
