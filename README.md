@@ -17,3 +17,4 @@ Background, Cyber Kill Chain, NIST Framework, PPDR Model
 
 - **Neighborhood gym startegy analysis**
 Competition, Playing to Win - the 5 startegic choices
+ 
