@@ -2,7 +2,7 @@
 
 These are presentions and analysis on various subjects I made.
 
-### subjects
+### Subjects
 - Anti-Virus Analysis
 - Airless tires - invoation analysis.
 - "Milky" commercial (2009) marketing analysis
